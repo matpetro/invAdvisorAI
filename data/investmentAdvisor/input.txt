@@ -1,0 +1,837 @@
+What Is Portfolio Management?
+
+Portfolio management is the art and science of selecting and overseeing a group of investments that meet the long-term financial objectives and risk tolerance of a client, a company, or an institution.
+
+Some individuals do their own investment portfolio management. That requires a basic understanding of the key elements of portfolio building and maintenance that make for success, including asset allocation, diversification, and rebalancing.
+
+Key Takeaways
+
+Investment portfolio management involves building and overseeing a selection of assets such as stocks, bonds, and cash that meet the long-term financial goals and risk tolerance of an investor. Active portfolio management requires strategically buying and selling stocks and other assets in an effort to beat the performance of the broader market. Passive portfolio management seeks to match the returns of the market by mimicking the makeup of an index or indexes.
+
+Understanding Portfolio Management
+
+Professional licensed portfolio managers work on behalf of clients, while individuals may choose to build and manage their own portfolios. In either case, the portfolio manager's ultimate goal is to maximize the investments' expected return within an appropriate level of risk exposure.
+
+Portfolio management requires the ability to weigh strengths and weaknesses, opportunities and threats across the full spectrum of investments. The choices involve trade-offs, from debt versus equity to domestic versus international, and growth versus safety.
+
+Passive vs. Active Management
+
+Portfolio management may be either passive or active.
+
+Passive management is the set-it-and-forget-it long-term strategy. It may involve investing in one or more exchange-traded (ETF) index funds. This is commonly referred to as indexing or index investing. Those who build indexed portfolios may use modern portfolio theory (MPT) to help them optimize the mix.
+
+Active management involves attempting to beat the performance of an index by actively buying and selling individual stocks and other assets. Closed-end funds are generally actively managed. Active managers may use any of a wide range of quantitative or qualitative models to aid in their evaluations of potential investments.
+
+Key Elements of Portfolio Management Asset Allocation
+
+The key to effective portfolio management is the long-term mix of assets. Generally, that means stocks, bonds, and cash equivalents such as certificates of deposit. There are others, often referred to as alternative investments, such as real estate, commodities, derivatives, and cryptocurrency.
+
+Asset allocation is based on the understanding that different types of assets do not move in concert, and some are more volatile than others. A mix of assets provides balance and protects against risk.
+
+Investors with a more aggressive profile weight their portfolios toward more volatile investments such as growth stocks. Investors with a conservative profile weight their portfolios toward stabler investments such as bonds and blue-chip stocks.
+
+Rebalancing captures recent gains and opens new opportunities while keeping the portfolio in line with its original risk/return profile.
+
+Diversification
+
+The only certainty in investing is that it is impossible to consistently predict winners and losers. The prudent approach is to create a basket of investments that provides broad exposure within an asset class.
+
+Diversification involves spreading the risk and reward of individual securities within an asset class, or between asset classes. Because it is difficult to know which subset of an asset class or sector is likely to outperform another, diversification seeks to capture the returns of all of the sectors over time while reducing volatility at any given time.
+
+Real diversification is made across various classes of securities, sectors of the economy, and geographical regions.
+
+Rebalancing
+
+Rebalancing is used to return a portfolio to its original target allocation at regular intervals, usually annually. This is done to reinstate the original asset mix when the movements of the markets force it out of kilter.
+
+For example, a portfolio that starts out with a 70% equity and 30% fixed-income allocation could, after an extended market rally, shift to an 80/20 allocation. The investor has made a good profit, but the portfolio now has more risk than the investor can tolerate.
+
+Rebalancing generally involves selling high-priced securities and putting that money to work in lower-priced and out-of-favor securities.
+
+The annual exercise of rebalancing allows the investor to capture gains and expand the opportunity for growth in high-potential sectors while keeping the portfolio aligned with the original risk/return profile.
+
+Active Portfolio Management
+
+Investors who implement an active management approach use fund managers or brokers to buy and sell stocks in an attempt to outperform a specific index, such as the Standard & Poor's 500 Index or the Russell 1000 Index.
+
+An actively managed investment fund has an individual portfolio manager, co-managers, or a team of managers actively making investment decisions for the fund. The success of an actively managed fund depends on a combination of in-depth research, market forecasting, and the expertise of the portfolio manager or management team.
+
+Portfolio managers engaged in active investing pay close attention to market trends, shifts in the economy, changes to the political landscape, and news that affects companies. This data is used to time the purchase or sale of investments in an effort to take advantage of irregularities. Active managers claim that these processes will boost the potential for returns higher than those achieved by simply mimicking the holdings on a particular index.
+
+Trying to beat the market inevitably involves additional market risk. Indexing eliminates this particular risk, as there is no possibility of human error in terms of stock selection. Index funds are also traded less frequently, which means that they incur lower expense ratios and are more tax-efficient than actively managed funds.
+
+Passive Portfolio Management
+
+Passive portfolio management, also referred to as index fund management, aims to duplicate the return of a particular market index or benchmark. Managers buy the same stocks that are listed on the index, using the same weighting that they represent in the index.
+
+A passive strategy portfolio can be structured as an exchange-traded fund (ETF), a mutual fund, or a unit investment trust. Index funds are branded as passively managed because each has a portfolio manager whose job is to replicate the index rather than select the assets purchased or sold.
+
+The management fees assessed on passive portfolios or funds are typically far lower than active management strategies.
+
+Frequently Asked Questions
+
+What Are the Types of Portfolio Management?
+
+Broadly speaking, there are only two types of portfolio management strategies: passive investing and active investing. Passive management is a set-it-and-forget-it long-term strategy. Often referred to as indexing or index investing, it aims to duplicate the return of a particular market index or benchmark and may involve investing in one or more exchange-traded (ETF) index funds. Active management involves attempting to beat the performance of an index by actively buying and selling individual stocks and other assets. Closed-end funds are generally actively managed.
+
+What Is Asset Allocation?
+
+Asset allocation involves spreading the investor's money among different asset classes so that risks are reduced and opportunities are maximized. Stocks, bonds, and cash are the three most common asset classes, but others include real estate, commodities, currencies, and crypto. Within each of these are sub-classes that play into a portfolios allocation. For instance, how much weight should be given to domestic vs. foreign stocks or bonds? How much to growth stocks vs. value stocks? And so on.
+
+What Is Diversification?
+
+Diversification involves owning assets and asset classes that have been shown over time to move in opposite directions. When one asset class performs poorly, other asset classes usually prosper. This provides a cushion to your portfolio, offsetting losses. Moreover, financial mathematics shows that proper diversification can increase a portfolio's overall expected return while reducing its riskiness.
+
+What Is the Objective of Portfolio Management?
+
+The objective of portfolio management is to create and maintain a personalized plan for investing over the long term in order to meet an individual's key financial goals. This means selecting a mix of investments that matches the person's responsibilities, objectives, and appetite for risk. Further, it means reevaluating the actual performance of the portfolio over time to make sure it is on track and to revise it as needed.
+
+What Does an Investment Portfolio Manager Do?
+
+An investment portfolio manager meets with a client one-on-one to get a detailed picture of the person's current financial situation, long-term goals, and tolerance for risk. From there, the portfolio manager can draw up a proposal for how the client can meet their goals. If the client accepts the plan, the portfolio can be created by buying the selected assets. The client may start out by contributing a lump sum, or add to the portfolio's balance periodically, or both. The portfolio manager takes responsibility for monitoring the assets and making changes to the portfolio as needed, with the approval of the client. Portfolio managers generally charge a fee for their service that is based on the client's assets under management.
+
+The Bottom Line
+
+Anyone who wants to grow their money has choices to make. You can be your own investment portfolio manager or you can hire a professional to do it for you. You can choose a passive management strategy by putting your money in index funds. Or, you can try to beat the markets by moving your money more frequently from one asset to another.
+
+In any case, you'll want to pay attention to the basics of portfolio management: pick a mix of assets to lower your overall risk, diversify your holdings to maximize your potential returns, and rebalance your portfolio regularly to keep the mix right.
+
+Diversified Investments Definition
+
+A diversified portfolio of investments refers to a low-risk investment plan that works as the best defense against a financial crisis. It allows an investor to earn the highest possible returns by making investments in combination with a combination of assets like stocks and commodities, fixed income, etc.
+
+Types of Diversified Investments
+
+There are different ways through which investments can be diversified, some of which are as follows:
+
+You are free to use this image on your website, templates, etc., Please provide us with an attribution linkHow to Provide Attribution?Article Link to be HyperlinkedFor eg:Source: Diversified Investments (wallstreetmojo.com)
+
+#1 – Different Asset Classes
+
+Different types of classes of assets have different performances during the same economic event. So, different classes of assets such as stocks, fixed-income investments, commodities, real estate, cash, etc. can be included in a portfolio for diversified investment resulting in lowering the overall risk.
+
+#2 – Different Individual Companies
+
+Different individual companies perform differently in the market according to the different factors. So there should be a mix of such companies to reduce the portfolio’s overall risk.
+
+#3 – Different Industry
+
+The portfolio should have balance across multiple industries in the economy as some events are industry-specific. If that event occurs, the only value of investments in those industry instruments will only decrease. So, one should invest in different industries so that a portfolio’s overall risk is low.
+
+#4 – Different Geographical Dimensions
+
+Most investors have biases towards instruments issued in their home country. But it is always beneficial to diversify the portfolio internationally because an event that is negative for one country might have no effect on other countries or might have a positive effect on other countries. So if the investment is diversified geographically, then a loss in investment in one country can be offset by international investmentsInternational InvestmentsInternational investments are made outside of domestic markets and offer portfolio diversification as well as risk management opportunities. As a result, an investor can diversify his portfolio and extend his return horizon by making international investments.read more.
+
+Example of the Diversified Investments
+
+All of a sudden, the volatility in the share marketThe Share MarketThe share market is a public exchange where one can buy and sell company shares based on the demand and supply of shares. read more increases, and then, in that case, there are chances that the people who have invested in stocks incur a huge loss. In such cases, if a person is holding investments in some other class of assets as well like fixed interest investments or direct property, which do not have an impact on the same event during the same period, then the return generated out of these investments will help in reducing the overall risk of the portfolio and smoothing the overall returns.
+
+Advantages of the Diversified Investments
+
+Below are some advantages of Diversified Investments.
+
+The diversified investments help in minimizing the risk of loss because if one investment doesn’t perform well over a particular period, then other investments in the portfolio may perform better in that same period helping in reducing potential losses associated with the investment portfolio if all the capital is invested under a similar type of investment. Sometimes the investments might not generate the returns as expected, so in that case, the diversified investment helps because through diversification, one is not merely relying on one source for generating the income, and he is investing in diversified investments. When the investments are well diversified, lower maintenance will be required because care and attention are required to keep the investments performing well, and if there is a risky venture, then a huge amount of time will be required to watch the markets. A well-diversified portfolio is generally more stable and less exciting, so once they are settled into a variety of classes, they can be there for extended periods and do not require much maintenance.
+
+Disadvantages of the Diversified Investments
+
+The following are the disadvantages of Diversified Investments.
+
+If the investments are diversified, the same could only generate average returns. This waters down the profits and makes the portfolio look less than great. In case one holds one security that suddenly spikes, he can earn a good amount of profits that cannot be there in the case of diversified investments. Additional transaction costs are also associated with diversified portfolios because one has to pay more to balance the portfolio to maintain diversification. When there are various assets in the portfolio, it is generally more difficult for a person to manage it as there would be too many investments in a portfolio. If only one security in which investment is made, then it would be easier to manage the same. Sometimes, the portfolio’s overall diversification risk increases because the diversified investment person might invest in a security of which he has little knowledge or doesn’t have any knowledge. One should always perform due diligence before investing.
+
+Important points of the Diversified Investments
+
+The diversification strategy for investing in diversified assets mixes various investments for constructing a portfolio. Holdings in a portfolio can be diversified in several ways, and they can be diversified based on asset classesAsset ClassesAssets are classified into various classes based on their type, purpose, or the basis of return or markets. Fixed assets, equity (equity investments, equity-linked savings schemes), real estate, commodities (gold, silver, bronze), cash and cash equivalents, derivatives (equity, bonds, debt), and alternative investments such as hedge funds and bitcoins are examples.read more, industry-wise, company-wise, and geographically. Diversification limits the overall risk of the portfolio risk but, at the same time, also mitigates the performance of the portfolio, at least if invested in the short term.
+
+Conclusion
+
+A diversified investment is a mixture of different assets like stocks, fixed-income securities, and commodities to achieve the highest return for the minimum level of risk. The diversification concept works because all the different types of assetsDifferent Types Of AssetsAssets are the resources owned by individuals, companies, or governments expected to generate future cash flows over a long period. There are broadly three types of asset distribution: 1. Based on convertibility (current and non-current assets), 2. Physical existence (tangible and intangible assets), 3. Usage (operating and non-operating assets)read more have different reactions concerning the same event happening in the economy. All the assets in the diversified investments do not correlate with each other, and generally, when the value of some investment falls, then at the same the value of another type of asset may rise.
+
+Due to this, the overall risk of total investments becomes low as in case of any event; there are some classes of assets that will give benefits and offsets the loss incurred in other assets because it is rare that all the classes of assets would have a negative effect by any one event.
+
+Diversified investments help investors achieve a smoother and more consistent return on the investments over the long and medium-term period. When the person’s holdings are diversified widely in divergent types of assets such as stocks, bondsBondsBonds refer to the debt instruments issued by governments or corporations to acquire investors’ funds for a certain period.read more, commodities, real estate, and cash, it helps reduce the portfolio’s overall risk as each asset class exhibits different types of strengths and strengths and weaknesses concerning risk and profitability.
+
+So, maintaining holdings by a person in the majority of these asset classes helps him create a stable portfolio, which then helps increase value over the period.
+
+What Is Active Management?
+
+Active management of an investment portfolio refers to a versatile strategy that aims to provide better returns, reduce risks and tax liabilities, manage volatility, and select suitable investments by actively tracking the performance and making decisions. Active managers are investors and mostly professionals who handle and make important decisions related to a portfolio.
+
+Active management investing focuses on outperforming the market or industry benchmarks by identifying gaps and opportunities. Therefore, it requires constant attention and action using various statistical tools, fundamental and quantitative analysis, and forecasting techniques to make quick and well-informed decisions. This differs from passive management, where investors try to replicate an index.
+
+Key Takeaways
+
+Active management is an investment approach where investors or finance professionals consider many factors that can potentially affect an investment’s performance. This can help them optimize returns by considering the risk involved, volatility of an investment, and tax benefits. It employs various strategies and mathematical techniques for making decisions regarding portfolio management. Active managers focus beyond achieving established benchmarks, unlike passive managers, who are often satisfied with achieving the planned objective. Instead, active managers try to surpass the benchmark regarding returns and gains.
+
+Active Management Explained
+
+Active management involves managing an investor’s portfolio, i.e., considering all the parameters that could affect an investment, industry, or market. Therefore, active managers, like money managers or financial advisors, constantly watch the market and its surroundings. This enables them to make quick buying or selling decisions to give their client better profits.
+
+For example, during the onset of the COVID-19 pandemic, the stock prices of many companies fell drastically. However, online services companies like Netflix, Zoom Video Communications, etc., saw new high prices. Therefore, an active manager could sell off the share they think would underperform and buy the shares of an internet services company instead. 
+
+Similarly, the same manager could foresee the internet companies’ price decline once the governments lifted the lockdowns worldwide and people started moving back to the traditional setup, thus reducing the demand for online services. 
+
+One of the important features of active fund management is that its proponents do not support the efficient market hypothesis (EMH). According to the EMH, it is impossible to beat the market in terms of returns on investment. This is because one determines the stock prices by considering all the necessary factors. But active managers believe that the market has some inefficiencies and that it cannot accurately price the stocks. Hence, they aim to profit from the mispricing of stocks. 
+
+Unlike those investments that investors trade with intuition and gut feeling, active management funds undergo heavy scrutiny:
+
+It uses quantitative and qualitative analysis to evaluate the investment and market. It forecasts the trends using highly complex statistical tools and theories like a mean reversion, etc. Active managers even consider geographical and political impacts on the stock market.
+
+Example
+
+Consider this example of ETF active management. According to a recent article by CNBC, actively managed exchange-traded funds (ETFs) are more likely to manage market volatility. In addition, actively managing ETFs can provide tax benefits and liquidity to the investor. 
+
+There is an estimated $6 trillion in ETFs, and the market volatility is expected to continue, owing to the rising inflation and interest rates and a fear of recession. Hence, ETF active management can benefit investors in such a turbulent time. However, actively managed ETFs attract a higher fee than passively managed ones. 
+
+Active Management vs Passive Management
+
+The real benefits of active management surface when passive management comes into the picture. Passive management can be explained as the investment approach in which the investment returns resemble a particular index. That is, the investment strategy is not likely to change with capital market expectations but instead places a higher emphasis on the index. 
+
+On the other hand, active management investing tries to find opportunities to maximize returns instead of just following the index and making standard market returns. Hence, the risk factor might increase in this case. But there is a higher potential to make better returns. For this purpose, it uses highly scientific methods and statistical tools compared to passive management, which mostly uses fundamental techniques. 
+
+Benefits Of Active Management
+
+Let us look at the benefits of active management: 
+
+Better returns on investment (ROI) Volatility and risk management
+
+Quick and accurate decision-making High responsiveness to the market Flexibility in the selection of investments
+
+This investment strategy has its disadvantages too. Firstly, professionals demand a high fee for active management funds. This is because so much effort, time, and analysis go into actively managing funds. 
+
+Further, when the volume of actively managed investments increases, it tends to replicate the performance of the benchmark or index, thus becoming passive. Lastly, many real-life examples show that despite the probable advantages of actively managed funds, it shows poorer results than passive management.
+
+Frequently Asked Questions (FAQs)
+
+1. Why is active management used? Actively managed funds can provide higher returns to investors as it attempts to surpass the index or benchmark. It also identifies inefficiencies and opportunities, which can be used to the investor’s advantage to make better profits. 2. Does active management work? Yes. Active investment management can work, provided it is employed properly, and many professionals handle every aspect.
+
+3. Is active management worth it?  Yes. Active portfolio management is a scientific approach to investing. It is versatile and conducive. It focuses beyond the primary factors that can affect investment or market performance. Thus, it can identify the remotest factors that can add to the investor’s profits. 4. Why is active management better than passive? Actively managing funds is considered a step above passively managing them because of their promises and potential. When rightly employed, it can manage the risk and volatility in the market, generate high returns, make fast and better decisions, and predict the likely outcomes.
+
+What are Investment Strategies?
+
+Investment strategies are strategies that help investors choose where and how to invest as per their expected return, risk appetite, corpus amount, long-term, short-term holdings, retirement age, choice of industry, etc. Investors can strategies their investment plans as per the objectives and goals they want to achieve.
+
+#1 – Passive and Active Strategies
+
+The passive strategy involves buying and holdingStrategy Involves Buying And HoldingThe term "buy and hold" refers to an investor's investment strategy in which they hold securities for a long period of time, ignoring the ups and downs in market price during a short period of time.read more stocks and not frequently dealing in them to avoid higher transaction costs. They believe they cannot outperform the market due to its volatility; hence passive strategies tend to be less risky. On the other hand, active strategies involve frequent buying and selling. They believe they can outperform the market and can gain more returns than an average investor would.
+
+#2 – Growth Investing (Short-Term and Long-Term Investments)
+
+Investors chose the holding period based on the value they want to create in their portfolio. If investors believe that a company will grow in the coming years and the intrinsic value of a stock will go up, they will invest in such companies to build their corpus value. This is also known as growth investingGrowth InvestingGrowth Investing refers to capital allocation in potentially high earning companies such as small caps and startups, which grow much faster than the overall industry or mature companies. Because the returns on such investments are high, the risk that such investors face is also higher.read more. On the other hand, if investors believe that a company will deliver good value in a year or two, they will go for short term holding. The holding period also depends upon the preference of investors. For example, how soon they want money to buy a house, school education for kids, retirement plans, etc.
+
+#3 – Value Investing
+
+Value investing strategy involves investing in the company by looking at its intrinsic value because such companies are undervalued by the stock market. The idea behind investing in such companies is that when the market goes for correctionMarket Goes For CorrectionMarket Correction is usually referred to as a fall of 10% or more from its latest high. It happens due to various reasons such as declining macro-economic factors, intense pessimism across the economy, securities specific factors, over-inflation in the markets, and so on.read more, it will correct the value for such undervalued companies, and the price will then shoot up, leaving investors with high returns when they sell. This strategy is used by the very famous Warren Buffet.
+
+#4 – Income Investing
+
+This type of strategy focuses on generating cash income from stocks rather than investing in stocks that only increase the value of your portfolio. There are two types of cash income which an investor can earn – (1) DividendDividendDividends refer to the portion of business earnings paid to the shareholders as gratitude for investing in the company’s equity.read more and (2) Fixed interest income from bonds. Investors who are looking for steady income from investments opt for such a strategy.
+
+#5 – Dividend Growth Investing
+
+In this type of investment strategy, the investor looks out for companies that consistently paid a dividend every year. Companies that have a track record of paying dividends consistently are stable and less volatile compared to other companies and aim to increase their dividend payout every year. The investors reinvest such dividends and benefit from compoundingCompoundingCompounding is a method of investing in which the income generated by an investment is reinvested, and the new principal amount is increased by the amount of income reinvested. Depending on the time period of deposit, interest is added to the principal amount.read more over the long term.
+
+#6 – Contrarian Investing
+
+This type of strategy allows investors to buy stocks of companies at the time of the down market. This strategy focuses on buying at low and selling at high. The downtime in the stock marketStock MarketStock Market works on the basic principle of matching supply and demand through an auction process where investors are willing to pay a certain amount for an asset, and they are willing to sell off something they have at a specific price.read more is usually at the time of recession, wartime, calamity, etc. However, investors shouldn’t just buy stocks of any company during downtime. They should look out for companies that have the capacity to build up value and have a branding that prevents access to their competition.
+
+#7 – Indexing
+
+This type of investment strategy allows investors to invest a small portion of stocks in a market index. These can be S&P 500, mutual fundsMutual FundsA mutual fund is a professionally managed investment product in which a pool of money from a group of investors is invested across assets such as equities, bonds, etcread more, exchange-traded funds.
+
+Investing Tips
+
+Here are a few investing tips for beginners, which should be kept in mind before investing.
+
+Set Goals: Set goals on how much money is required by you in the coming period. This will allow you to set your mind straight whether you need to invest in long-term or short-term investmentsShort-term InvestmentsShort term investments are those financial instruments which can be easily converted into cash in the next three to twelve months and are classified as current assets on the balance sheet. Most companies opt for such investments and park excess cash due to liquidity and solvency reasons.read more and how much return is to be expected.
+
+Research and Trend Analysis: Get your research right in terms of understanding how the stock market works and how different types of instruments work (equity, bonds, options, derivatives, mutual funds, etc.). Also, research and follow the price and return trends of stocks you chose to invest.
+
+Portfolio Optimization: Select the best portfolio out of the set of portfolios which meet your objective. The portfolio which gives maximum return at the lowest possible risk is an ideal portfolio.
+
+Best Advisor/Consultancy: Find yourself a good consulting firm or brokerage firm. They will guide and give consultation regarding where and how to invest so that you meet your investment objectives.
+
+Risk Tolerance: Know how much risk you are willing to tolerate to get the desired return. This also depends on your short term and long term goals. If you are looking for a higher return in a short period of time, the risk would be higher and vice versa.
+
+Diversify Risk: Create a portfolio that is a mix of debt, equity, and derivativesDerivativesDerivatives in finance are financial instruments that derive their value from the value of the underlying asset. The underlying asset can be bonds, stocks, currency, commodities, etc. The four types of derivatives are - Option contracts, Future derivatives contracts, Swaps, Forward derivative contracts. read more so that the risk is diversified. Also, ensure that the two securities are not perfectly correlated to each other.
+
+Advantages of Investment Strategies
+
+Some of the advantages of investment strategies are as follows:
+
+Investment strategies allow for diversification of risk in the portfolio by investing in different types of investmentsDifferent Types Of InvestmentsStocks, bonds, and cash equivalents are the three main forms of investments. Investment, in general, refers to the purchase of anything for future use with the goal of generating a regular cash flow or increasing the value of something over time so that it can be sold for a higher price than it was purchased for, i.e. capital gains. read more and industry based on timing and expected returns. A portfolio can be made of a single strategy or a combination of strategies to accommodate the preferences and needs of the investors. Investing strategically allows investors to gain maximum out of their investments. Investment strategies help reduce transaction costs and pay less tax.
+
+Limitations of Investment Strategies
+
+Some of the limitations of investment strategies are as follows:
+
+Average investors find it difficult to outperform the market. To earn an average return from investments, it may take them years, whereas professional investors would earn the same return in weeks or months. Even though a lot of research, analysis, and historical data are considered before investing, most of the decisions are taken on a predictive basis. Sometimes, the results and returns may not be as it was anticipated, and it may delay the investors from achieving their goals.
+
+Conclusion
+
+It is very important to have an investment strategy. It will help you rule out poor portfolios and will increase the chances of success. Ask yourself a few basic questions like how much I want to invest? How much return do I need? How much is my risk toleranceRisk ToleranceRisk tolerance is the investors' potential and willingness to bear the uncertainties associated with their investment portfolios. It is influenced by multiple individual constraints like the investor's age, income, investment objective, responsibilities and financial condition.read more? What will be my investment horizon? Why did I need to invest? Etc. The clearer you are with your objectives, the better decision you will make regarding your investment. Always lookout for good opportunities and never invest at one go. Building a portfolio is like building a house brick by brick, money by money.
+
+What is Passive Investing?
+
+Passive investing is an investment strategy wherein investors buy securities and hold them with a long-term goal in mind. Traders here do not involve in the frequent buying and selling of stocks. Instead, they invest in funds that mirror the major stock indexes and assess the performance of the securities to match the pace rather than attempt to outperform them.
+
+Key Takeaways
+
+Passive investing refers to a strategy adopted by investors to optimize their returns by buying and holding a broad base of securities rather than churning portfolios by buying and selling them frequently. The main aim is not to beat the market but to track portfolio performances and provide returns equal to that of the prominent stock exchanges of the country. This is usually done by investing in a low-cost, broadly diversified index fund. Index funds, Exchange-Traded Funds (ETFs), and Direct Equity are the three types of passive investing. Due to its simplicity of having to buy and hold a broad-based index of securities, passive investing tends to gain prominence among the masses. 
+
+Passive Investing Strategy Explained
+
+Passive investing is a long-term strategy that allows investors to buy securities of different types and have a diversified portfolio. Those who are not into reaping profits from short-term investments driven by market fluctuations and aim to have something big planned for the long term can opt for these investing schemes. 
+
+As passive investors, individuals and entities do not actively participate in the buying and selling process but keep in touch with the market. They invest in securities that mirror the significant stock indexes and let them know how the investments perform. In addition, the process helps them keep their portfolio well-maintained per the market standards and watch the volatility. For passive investors, outperforming is not the aim. Instead, they intend to keep up with the current market situation.
+
+This investing works on the “buy and hold” principle. The strategy does not aim at profit-making but ensures future financial security. The main aim is not to beat the market but to make an arrangement for the portfolio to track and provide returns equal to that of the prominent stock exchangesStock ExchangesStock exchange refers to a market that facilitates the buying and selling of listed securities such as public company stocks, exchange-traded funds, debt instruments, options, etc., as per the standard regulations and guidelines—for instance, NYSE and NASDAQ.read more of the country. The investors invest in low-cost, broadly diversified funds to achieve this.
+
+Types
+
+Investors looking for passive investing ideas get three options: index funds, exchange-traded funds, and direct equity.
+
+#1 – Index Funds
+
+An investor can purchase an index fund that goes on to hold stocks in replication to the country’s index merely. Then, the fund manager of the index funds makes all efforts to ensure that the tracking error is minimum and that the index fund’s performance aligns with that of the currently tracked index.
+
+You are free to use this image on your website, templates, etc., Please provide us with an attribution linkHow to Provide Attribution?Article Link to be HyperlinkedFor eg:Source: Passive Investing (wallstreetmojo.com)
+
+#2 – Exchange-Traded Funds (ETFs)
+
+These are similar to index funds and follow the route of passive investing. However, the only difference is that the stock exchanges list ETFs from where traders can buy or sell them, leading to a transfer of ownership.
+
+#3 – Direct Equity
+
+An investor can adopt a passive investment strategy by buying the stocks in the index to the same proportion of the index, such as Dow Jones, NASDAQ, etc. Hence, the returns of the investor would mirror the returns of the index of the economy. In this case, the challenge for the investor would be to frequently track the index and make the necessary changes in their portfolio. 
+
+Examples
+
+Let us consider the following examples to understand the passive investing strategy properly:
+
+Example #1
+
+Mark buys a property in Los Angeles, intending to sell it in the future. However, as he is still employed as an investment banker and has sufficient earnings to spend on his family and his requirements, he keeps his goal of selling the property on hold. Then, after ten years, when he retires, he sells it at a higher price, which is the currently trending price and earns a profit. As a result, he ensures a financially secure retirement life. This is an example of passive investing in real estate – buy, hold, and sell when it’s the most fruitful.
+
+Example #2
+
+Recently, Yahoo Finance published a report on how effective passive investing is in volatile markets. The expert opinions in the report suggested that the market history depicts how the returns remain constant for consecutive years, be it positive or negative, in longer tenure. This means the profits and losses remain constant for years to come once recorded. Therefore, investors must put their money to work when the market is down instead of trying to time the market. This, as a result, helps create a virtuous investment circle, which keeps the market efficient.
+
+Pros & Cons
+
+Passive investing lets people invest in different portfolios and maintain a low-risk profile, but at the same time, makes the market stagnant if the majority of investors start opting for it. In short, the investment strategy comes with both positive and negative impacts. Some of the advantages and disadvantages of choosing passive investment funds and securities are listed below:
+
+Advantages
+
+It leads to the reduction of cost because of the infrequent buying and selling of securities. This means when the market is not active, the cost gets reduced. The strategy allows investors to invest in different assets, helping them maintain a diversified portfolio. Investment-related taxes get reduced as the market no more remains active. It gives a simple investment option to investors. They can buy and hold the securities while keeping a watch on the market until the time they find it the most fruitful to sell.
+
+Disadvantages
+
+The strategy becomes less profitable if the active market outperforms and yields more returns than the passive investments. Returns here might be long-term but not too high. Hence, it tends to encourage investors to spend more on active investment options.
+
+Passive Investing vs Active Investing
+
+The differences between passive and active investing are many. Some of them have been mentioned below in the tabular form:
+
+Category Passive Investing Active Investing
+
+Process Buy and hold securities for longer term Frequent buying and selling of securities
+
+Objective Mirror significant stock indexes to be at par with the market Investors try to outperform the market and reap more and more profits
+
+Tenure Long-term investment goals Both short-term and long-term investment objectives
+
+Frequently Asked Questions (FAQs)
+
+Why is passive investing better? Passive investing is considered better as it involves reduced costs and allows investors to diversify portfolios. In addition, they are simple, easy to follow, and make for an excellent portfolio to own as it replicates and produces returns similar to the stock index, which is often considered the barometer for the economy.
+
+How to start passive investing? Passive investors can start by investing in index funds, ETFs, or real estate Investment Trust (REIT) funds. For this, they would require opening a brokerage account to start transacting. They can, therefore, buy and hold investments using those accounts. Is passive investing a bubble? The latest arguments suggest that the increase in the number of passive investors is causing the bubble to brew in the stocks they buy to hold. As these investors buy securities with market-cap weights, the major market stocks witness a significant price boost. On the contrary, the price of the smallest stocks goes down. This is what causes bubbles to brew.
+
+What is Portfolio Optimization?
+
+Portfolio optimization is nothing but a process where an investor receives the right guidance concerning the selection of assets from the range of other options, and in this theory, projects/programs are not valued on an individual basis; rather, the same is valued as a part of a particular portfolio.
+
+Explanation
+
+An optimal portfolio is said to have the highest Sharpe ratioSharpe RatioSharpe Ratio, also known as Sharpe Measure, is a financial metric used to describe the investors’ excess return for the additional volatility experienced to hold a risky asset. You can calculate it by, Sharpe Ratio = {(Average Investment Rate of Return – Risk-Free Rate)/Standard Deviation of Investment Return} read more, which measures the excess return generated for every unit of risk taken.
+
+Portfolio optimization is based on Modern Portfolio Theory (MPTMPTAn investment model like modern portfolio theory or MPT allows investors to choose from a variety of investment options comprising of a single portfolio for earning maximum benefits and that too at a market risk which is way lower than the various underlying investments or assets.read more). The MPT is based on the principle that investors want the highest return for the lowest risk. To achieve this, assets in a portfolio should be selected after considering how they perform relative to each other, i.e., they should have a low correlationCorrelationCorrelation is a statistical measure between two variables that is defined as a change in one variable corresponding to a change in the other. It is calculated as (x(i)-mean(x))*(y(i)-mean(y)) / ((x(i)-mean(x))2 * (y(i)-mean(y))2.read more. Any optimal portfolio based on the MPT is well-diversified to avoid a crash when a particular asset or asset class underperforms.
+
+You are free to use this image on your website, templates, etc., Please provide us with an attribution linkHow to Provide Attribution?Article Link to be HyperlinkedFor eg:Source: Portfolio Optimization (wallstreetmojo.com)
+
+Process of Optimal Portfolio
+
+Asset AllocationAsset AllocationAsset Allocation is the process of investing your money in various asset classes such as debt, equity, mutual funds, and real estate, depending on your return expectations and risk tolerance. This makes it easier to achieve your long-term financial goals.read more for an optimal portfolio is essentially a two-part process:
+
+Selecting Asset Classes – Portfolio managersPortfolio ManagersA portfolio manager is a financial market expert who strategically designs investment portfolios.read more first choose the asset classes they want to allocate funds to, then decide the weight of every asset class included. Common asset classesAsset ClassesAssets are classified into various classes based on their type, purpose, or the basis of return or markets. Fixed assets, equity (equity investments, equity-linked savings schemes), real estate, commodities (gold, silver, bronze), cash and cash equivalents, derivatives (equity, bonds, debt), and alternative investments such as hedge funds and bitcoins are examples.read more include Equities, Bonds, Gold, and Real Estate.
+
+Selecting Assets within Class – After deciding the asset classes, the manager decides how much of a particular stock or a bond she wants to include in the portfolio. The Efficient Frontier represents the risk-return relationship of an efficient portfolio on a graph. Each point on this curve represents an efficient portfolio.
+
+Examples of Portfolio Optimization
+
+Let’s see some practical examples of portfolio optimization to understand it better.
+
+Example #1
+
+If we take an example of Apple and Microsoft based on their monthly returns for the year 2018, the following graph shows the Efficient Frontier for a portfolio consisting only of these two stocks:
+
+The X-axis is the standard deviation, and the y-axis is the portfolio return for the level of risk. If we combine this portfolio with a risk-free asset, the point on this graph where the Sharpe ratio is maximized represents the optimal portfolio. It is the point at which the capital allocation lineCapital Allocation LineThe capital allocation line, which also refers to the capital market line, is a graph used to measure the risk related to securities and defines the relationship (the combination of) between risky and risk-free assets, and the line on the graph represents it. It is also known as a reward to variability ratio.read more is tangential to the efficient frontier. The reason behind this is that at that point, the Sharpe ratio (which measures the increase in expected returnExpected ReturnThe Expected Return formula is determined by applying all the Investments portfolio weights with their respective returns and doing the total of results. Expected return = (p1 * r1) + (p2 * r2) + ………… + (pn * rn), where, pi = Probability of each return and ri = Rate of return with probability. read more for every additional unit of risk taken) is the highest.
+
+Example #2
+
+Suppose we want to combine a risky portfolio having only BestBuy and AT&T stocks and a risk-free asset with a return of 1%. We will plot the Efficient Frontier based on the return data for these stocks and then take a line that starts at 1.5 on the Y-axis and is tangential to this Efficient Frontier.
+
+The X-axis represents the Standard Deviation, and Y-axis represents the return of the portfolio Of The PortfolioThe portfolio return formula calculates the return of the total portfolio consisting of the different individual assets. The formula is computed by calculating the return on investment on individual asset multiplied with respective weight class in the total portfolio and adding all the resultants together. Rp = ∑ni=1 wi riread more. An investor who wishes to take on less risk can move to the left of this point, and high risk-taking investors can move to the right. An investor who does not wish to take any risk at all would invest all the money in the risk-free asset but, simultaneously, limit their portfolio return to 1%. An extra return will be earned by taking the risk.
+
+Advantages of Portfolio Optimization
+
+Below mentioned are some of the major advantages of portfolio optimization:
+
+Maximizing Return – The first and foremost objective of portfolio optimization is maximizing return for a given level of risk. The risk-return trade-off is maximized at the point on the efficient frontierEfficient FrontierThe efficient frontier, also known as the portfolio frontier, is a collection of ideal or optimal portfolios that are expected to provide the highest return for the minimum level of risk. This frontier is formed by plotting the expected return on the y-axis and the standard deviation on the x-axis.read more that represents the optimal portfolio. So managers pursuing the process of portfolio optimization are often able to achieve high returns per unit of risk for their investors. This helps with client satisfaction.
+
+Diversification – Optimal Portfolios are well diversified in order to do away with the unsystematic riskThe Unsystematic RiskUnsystematic risk refers to risk that is generated in a specific company or industry and may not be applicable to other industries or the economy as a whole.  There are two types of unsystematic risk: business risk and financial risk.read more or non-priced risks. Diversification helps in protecting investors against the downside in case a particular asset underperforms. The other assets in the portfolio will protect the investor’s portfolio from crashing, and the investor stays in a comfortable zone.
+
+Identifying Market Opportunities – When managers indulge in active portfolio management, they track a lot of market data and update themselves with the markets. This practice can help them identify opportunities in the market ahead of others and take advantage of those opportunities for the benefit of their investors.
+
+Limitations of Portfolio Optimization
+
+Below mentioned are some of the major limitations of portfolio optimization:
+
+Frictionless Markets – The Modern Portfolio Theory, on which the concept of portfolio optimization is based, makes certain assumptions hold. One of the assumptions is that the markets are frictionless, i.e., there are no transaction costs, constraints, etc., that prevail in the market. In reality, this is often found not to be true. There are frictions in the market, and this fact makes the application of modern portfolio theory complicated.
+
+Normal Distribution – Another assumption under the modern portfolio theory is that the returns are normally distributed. It ignores the concepts of skewness, kurtosisKurtosisKurtosis in statistics is used to describe the distribution of the data set and depicts to what extent the data set points of a particular distribution differ from the data of a normal distribution. It determines whether the data is heavy-tailed or light-tailed.read more, etc., when using the return data as inputs. It is often found that the returns are not normally distributedNormally DistributedNormal Distribution is a bell-shaped frequency distribution curve which helps describe all the possible values a random variable can take within a given range with most of the distribution area is in the middle and few are in the tails, at the extremes. This distribution has two key parameters: the mean (µ) and the standard deviation (σ) which plays a key role in assets return calculation and in risk management strategy.read more. This assumption violation under the modern portfolio theory makes it challenging to use.
+
+Dynamic Coefficients – The coefficients used in the data for portfolio optimization, such as the correlation coefficientCorrelation CoefficientCorrelation Coefficient, sometimes known as cross-correlation coefficient, is a statistical measure used to evaluate the strength of a relationship between 2 variables. Its values range from -1.0 (negative correlation) to +1.0 (positive correlation). read more, can change as the market situations change. The assumption that these coefficients stay the same might not be true in all cases.
+
+Conclusion
+
+Portfolio Optimization is good for those investors who want to maximize the risk-return trade-off since this process is targeted at maximizing the return for every additional unit of risk taken in the portfolio. The managers combine a combination of risky assets with risk-free assets to manage this trade-off. The ratio of risky assets to risk-free assets depends on the risk the investor wants to take. The optimal portfolio does not give a portfolio that would generate the highest possible return from the combination. It just maximizes the return per unit of risk taken. The Sharpe ratio of this portfolio is the highest.
+
+What Is Socially Responsible Investing?
+
+Socially responsible investing is where the investor does not invest in securities of companies’ businesses involving animal exploitation, gambling, alcohol, or weapons. Here, investors encourage companies to work for ethical business and avoid anti-social activities.
+
+The investment portfolio is the same as other portfolios but is tailored so that all the securities have the same moral and ethical values as the investor. It is the easiest and most simple form of the value-based investment approach.
+
+Key Takeaways
+
+Socially Responsible Investment is the best way to invest in companies’ securities with positive social impact and avail good returns. It promotes moral & ethical business and discourages anti-social activities by corporates. The basic process of building the ethical investing portfolio is to screen ethical companies, invest in sustainable businesses, and promote community investment and development. SRI and ESG are part of the same category but differ in exclusion of investment in alcohol, gambling, and weapons-based companies.
+
+Socially Responsible Investing Explained
+
+Ethical or socially responsible investing means selecting only those securities in the portfolio that align with the investor’s civil and ethical preferences. It is based on three strategies- the firms’ screening, social investment, and shareholder advocacy. In short, this investment focuses on companies’ sustainable businesses and works for social upliftment and good returns on investment. It mimics the social and political climate of a specific period.
+
+Although ethical investment grew in prominence during the 1980s and 1990s, a group affiliated with a religious society of friends known as ‘Quakers’ first started it in the 18th century. These groups prohibited human buying and selling, i.e., slavery and smuggling, and avoided investment in gambling, war, and alcohol-based companies. The basic of ethical investing is to promote companies’ ethical practices and prevent them from pursuing harmful activities like pollution and war. It also promotes clean and green energy production through ethical investment portfolios.
+
+As this investment type has great potential to bring huge changes to the world’s climate change and higher yield to investors, all the companies in an ethical investment portfolio are evaluated based on environment, social justice, and corporate governance or ESG investing.
+
+According to the nature of companies’ business, investors can invest in them directly through stocks, mutual funds, or exchange-traded funds (ETFs). Mutual funds are very good in making an ethical investing portfolio by investing in multiple companies of different sectors. Pax world was the first to create the first ethical investing mutual fund in 1971. Investors also offer small or microfinance loans to startups.
+
+Socially Responsible Investing Strategies
+
+The two goals of ethical investment include financial gains along with social impact. The investors identify securities that align with their investment criteria by:
+
+Performing Screening of securities whether their issuing companies have a positive or negative impact on the environment or not, like gambling, wars, weapons, and child labor. Clarifying whether their activities help in social development or not. Investing in environmentally friendly companies like recycling water and pursuing carbon emission norms.
+
+In a way, ethical investing aims to contribute to a better world for living and investment. It motivates corporates to work for sustainable growth solutions. Moreover, it is also a good avenue to get good returns for the investor.
+
+Examples
+
+Let us look at some ethical investing examples to get a clearer picture of the topic.
+
+Example #1
+
+The first example is the Clearbridge Sustainability Fund, one of the socially responsible investing funds. Costco, Apple, Alphabet, and Microsoft are its top holdings. All of the above socially responsible investing companies follow high sustainability factors like software development to enhance production. These companies also work on the social front, promoting and working for the upliftment of poor people and using renewable sources to power their workplaces. It does not contain any fund having exposure to petroleum gambling, weapons, or animal-based products. Microsoft has an ESG rating of 32 out of 1013 companies.
+
+Example #2
+
+Another example of a socially responsible investing ESG portfolio would be the Aggressive growth ethical investment portfolio. It contains civil and governance ETFs, low carbon ETFs, and cleantech ETFs and has a high socially responsible investing performance. It puts all its investments in equity. So, it does fluctuate with the securities market but gives the highest returns to the investor. The portfolio has an MER of 0.25%.
+
+Socially Responsible Investing vs. ESG
+
+Both ethical investing and ESG are a means of providing sustainable, environmentally friendly, and socially benefiting investment funds. The similarity between them includes positive social impact. However, they are yet different from each other:
+
+SRI ESG
+
+Ethical investment filters out the sectors for investment that are unethical and socially detrimental. ESG tends to offer investment support to those companies which are performing well in promoting wellness to the environment, society, and ethical practices.
+
+Investors can decide on the aspect they want to invest in, like environment, social, health, or governance. It has three main aspects- environmental, social, and governance combined.
+
+SRI uses the ESG factors to decide about investment instruments or securities. It is the basis of the SRI investment method.
+
+Profits on returns are balanced against socially responsible factors. Its goal is to produce returns on investments.
+
+The investor excludes companies dealing with alcohol, petroleum, and gambling. They help in the enhancement of financial analysis.
+
+A single-issue investor is most suitable for this type of investment. It does not have any particular category of companies for investment and no cap on the number of investors.
+
+Frequently Asked Questions (FAQs)
+
+1. Does socially responsible investing work? Yes, socially responsible investing funds work to properly utilize funds and help socially relevant causes in society to be furthered. The investor is sure that the companies will invest in improving social aspects and removing problems and environmental issues. It also rewards by way of better long-term wealth. 2. Why is socially responsible investing important? Socially responsible investing is important because it provides everybody an opportunity to fight against climate change and social issues without direct involvement. Moreover, investors also get good returns on their investments in terms of long-term holding.
+
+3. Does socially responsible investing make financial sense? Yes, socially responsible investing is the best instrument of financial investing. As per research, SRI has given equal and sometimes more returns than other investments in terms of risk-adjusted basis spread over asset classes and throughout a certain duration. 4. Is socially responsible investing effective? Investors prefer companies aligned with environmental, social, and governance for investment as their financial performance outstands. Moreover, to fulfill the ESG objective, these companies follow a sustainable business model, which benefits the environment, investors, and the company.
+
+What Is Portfolio Rebalancing?
+
+Portfolio rebalancing is the process that helps investors restore the originally allocated assets per their weightage from time to time to meet the set financial goals. However, the financial requirements and the risks associated with trading keep changing. Thus, the portfolio allocation must be restored accordingly.
+
+The value of the assets changes per the returns they generate. Accordingly, the weightage of the assets differs. Depending on the current weight of the assets, the investors require categorizing them under the portfolio labels best suited for the respective financial instruments per the investment plan. This, in turn, helps balance investor portfolios as per the changing market scenario.
+
+Key Takeaways
+
+Portfolio rebalancing is a reallocation of the weight of portfolio assets. It includes buying and selling existing assets either fully or partially from time to time to maintain the desired level of return. Rebalancing can be industry or sector-specific or in combination. The portfolio assets can be a mix of bonds, equity, and other stocks depending on the investor’s appetite for risk and return and movement and value of stocks. Portfolio rebalancing can be time-based, threshold-based, or risk-based, depending on the investors’ approach and suitability.
+
+Portfolio Rebalancing Explained
+
+Portfolio rebalancing keeps investor profiles balanced. Given the frequent fluctuations in the market, individuals must have a provision for adjusting their portfolios to ensure minimum risks and maximum profits on any investment. In addition, the rebalancing process enables them to reallocate their assets, so the holders do not incur losses.
+
+Rebalancing is done to ensure investors do not depend on the performance of a single investment. It gives investors a chance to have a diversified portfolio. The scattered investments make people control risks by not depending on the success or failure of a single portfolio.
+
+The portfolio is rebalanced from time to time so that investors can gain maximum return on investment. Wealth managers, mutual funds providers, and investment bankers who handle portfolios involving a huge amount of money pay careful consideration to rebalance to deliver the expected return level throughout the investment tenure.
+
+The investor or fund manager shuffles the stocks in the portfolio to maintain the desired return and risk level. This shuffling is done after careful stock analysis, facilitated by a lot of decision-making and experience. The portfolio is based on an investor’s risk appetite. For example, a risk-averse investor (low-risk taker) invests more in bonds than in equity. The reason is that bonds deliver fixed and periodic interest rates and volatile equity. In such a case, the investor might invest around 70%-80% in bonds and balance 30%-20% in equity.
+
+Similarly, an investor who wants a high return and has a good risk appetite will invest less in bonds and more in inequity. In such a case, the scenario is reversed, and they invest 70%-80% in equity and the remaining 30%-20% in bonds. Again, an investor who wants an average return will invest 50% each in bonds and stocks.
+
+Strategies
+
+Portfolio rebalancing lets investors gain higher returns and control the associated risks. But, first, money managers and investors need to implement effective portfolio rebalancing strategies to ensure the process works at its best. The practices that tend to be the most useful are either time-based, threshold-based, or risk-based.
+
+You are free to use this image on your website, templates, etc., Please provide us with an attribution linkHow to Provide Attribution?Article Link to be HyperlinkedFor eg:Source: Portfolio Rebalancing (wallstreetmojo.com)
+
+Time-based rebalancing refers to balancing portfolios at specific intervals based on status, as revealed through regular monitoring. Though it is an effective means of determining ways to rebalance, overdoing the same could hamper the returns. Thus, time-based rebalancing must be done carefully.
+
+The threshold-based portfolio enables investors to reallocate asset classes to have a mixed or diverse portfolio. This, in turn, ensures individuals adopting the strategy reap maximum profits as they do not have to depend on a single investment. Instead, they can have diversified portfolios for profits and risk control.
+
+The risk-based rebalancing lets investors rebalance portfolios if they realize the risks would increase. In short, they can choose to diversify their investments to tackle the losses wisely. Learning these practices makes investors understand the portfolio rebalancing meaning better.
+
+Example
+
+Let us consider the following portfolio rebalancing example to understand the concept better:
+
+A Mutual fundsMutual FundsA mutual fund is a professionally managed investment product in which a pool of money from a group of investors is invested across assets such as equities, bonds, etcread more manager pools in $10m from individual investors, and diversifies the risk in the portfolio by investing 50% in equity and 50% in bonds. The manager also diversifies risks further across different sectors in the percentage below.
+
+Telecommunication 10%
+
+Real Estate 10%
+
+FMCG 15%
+
+Hospitality 5%
+
+Banking 10%
+
+Manufacturing 5%
+
+Oil and Gas 15%
+
+Pharmaceuticals 20%
+
+Information Technology 10%
+
+The fund managerFund ManagerA fund manager refers to an investment professional responsible for fund investment strategy formulation and implementation. They collect and invest the money from various investors and create a good variety of managed funds catering to the diverse preferences exhibited by the investors. read more chooses to review the performance regularly and decide to rebalance the portfolio monthly, quarterly, or yearly per the suitability.
+
+Pros & Cons
+
+The portfolio rebalancing tool serves to be of great help to investors as they can profit and hedge risks to a great extent. However, the process is not devoid of disadvantages. The benefits and challenges of it are as follows:
+
+Advantages Disadvantages
+
+Balances risks and returns Leads to cutting off the performance leg of stocks.
+
+Tracks and maintains financial returns and expectations Wrong decisions can lead to higher exposure to risk
+
+Rebalancing habit helps to achieve the desired level of return Frequent rebalancing leads to higher transaction costs.
+
+Mitigates unwanted risks Knowledge and experience required
+
+Tax Implications
+
+Portfolio rebalancing follows a set of tax guidelines for investors to be aware of. These rebalancing portfolios remain tax exempted when the trade is taken. This process possibly leads to profits, hedging risks simultaneously. However, these profits are taxable, and investors are liable to pay them as applicable. Sometimes, this tax application makes investors reluctant to do portfolio rebalancing.
+
+Frequently Asked Questions (FAQs)
+
+How to do portfolio rebalancing? Investors must have a thorough plan to determine how and where to invest for a diversified portfolio. They need to monitor the market and decide on the financial instruments that are likely to reap more profits and help cover unavoidable losses. As soon as the repercussions are known, the investors can decide on the portfolios to invest in for better returns.
+
+Does portfolio rebalancing cost money? Rebalancing can be done without costing investors any money. They can do it themselves. However, if they take the assistance of professional advisors, it would come in exchange for a fee or commission. Does portfolio rebalancing improve returns? Rebalancing a portfolio aims not to increase returns or profits but to control the risks. In short, when there are multiple investments, the profit from one can help bear the loss incurred from the other.
+
+What is the Portfolio Analysis?
+
+Portfolio Analysis is one of the areas of investment management that enable market participants to analyze and assess the performance of a portfolio (equities, bonds, alternative investments, etc.), intending to measure performance on a relative and absolute basis along with its associated risks.
+
+Tools Used in Portfolio Analysis
+
+Some of the top ratios used are as follows –
+
+1) Holding Period Return
+
+It calculates the overall return during the investment holding period.
+
+Holding Period ReturnHolding Period ReturnHolding period return refers to total returns over the period for which an investment was held, usually expressed in percentage of initial investment, and for comparing returns from various investments held for different periods of time.read more ={(Ending Value–Beginning Value)+Dividends Received}/Beginning Value
+
+2) Arithmetic Mean
+
+It calculates the average returns of the overall portfolio.
+
+Arithmetic MeanArithmetic MeanArithmetic mean denotes the average of all the observations of a data series. It is the aggregate of all the values in a data set divided by the total count of the observations.read more = (R1 + R2 + R3 +……+ Rn) / n
+
+R = Returns of Individual Assets
+
+3) Sharpe Ratio
+
+It calculates the excess return over and above the risk-free return per unit of portfolio risk.
+
+Sharpe Ratio FormulaSharpe Ratio FormulaThe Sharpe ratio formula calculates the excess return over the risk-free return per unit of the portfolio's volatility. The risk-free rate of return gets subtracted from the expected portfolio return and is divided by the standard deviation of the portfolio. Sharpe ratio = (Rp – Rf)/ σpread more = (Expected Return – Risk-Free rate of return) / Standard Deviation (Volatility)
+
+4) Alpha
+
+It calculates the difference between the actual portfolio returns and the expected returns.
+
+Alpha of portfolioAlpha Of PortfolioThe term alpha refers to an index that is used in a variety of financial models, including the capital asset pricing model, to determine the maximum possible return from a low-risk investment. Alpha of portfolio = Actual rate of return of portfolio – Risk-free rate of return – β * (Market return – Risk-free rate of return)read more = Actual rate of return of portfolio – Expected Rate of Return on Portfolio
+
+5) Tracking Error
+
+It calculates the standard deviation of the excess return concerning the benchmark rate of return.
+
+Tracking Error FormulaTracking Error FormulaTracking Error Formula is used in order to measure the divergence arising between the price behavior of portfolio and price behavior of the respective benchmark and according to the formula Tracking Error calculation is done by calculating the standard deviation of the difference in return of the portfolio and the benchmark over the period of time.read more = Rp-Rb
+
+Rp = Return of Portfolio, Rb = Return on Benchmark
+
+6) Information Ratio
+
+It calculates the success of the active investment managerInvestment ManagerAn investment manager manages the investments of others using several strategies to generate a higher return for them and grow their assets. They are sometimes also referred to as portfolio managers, asset managers, or wealth managers. They may also be considered financial advisors in some cases, but they are typically less involved in the sales aspect.read more strategy by calculating excess returns and dividing it by tracking error.
+
+Information ratio FormulaInformation Ratio FormulaInformation ratio” (IR) is measured by comparing the excess returns generated by the investment portfolio to the volatility of those excess returns. Mathematically, the information ratio formula is represented as = (Rp – Rb) / Tracking error read more = (Rp – Rb) / Tracking error
+
+Rp = Return of Portfolio, Rb = Return on Benchmark
+
+7) Sortino Ratio
+
+It calculates the excess return over and above the risk-free return per unit of negative asset returns.
+
+Sortino Ratio FormulaSortino Ratio FormulaThe Sortino ratio is a statistical tool used to evaluate the return on investment for a given level of bad risk. It is calculated by subtracting the risk-free rate of return from the expected return and dividing the result by the negative portfolio's standard deviation (downside deviation).read more = (Rp – Rf) / σd
+
+Rp = Return of Portfolio, Rf = Risk-Free Rate, σd = standard deviation of negative asset returns
+
+You are free to use this image on your website, templates, etc., Please provide us with an attribution linkHow to Provide Attribution?Article Link to be HyperlinkedFor eg:Source: Portfolio Analysis (wallstreetmojo.com)
+
+Examples of Portfolio Analysis
+
+Let’s understand this concept in more detail with the help of a few examples by making use of these popular tools as discussed.
+
+You can download this Portfolio Analysis Excel Template here – Portfolio Analysis Excel Template
+
+Example #1
+
+Ryan invested in a portfolio of stocks, as discussed below. Based on the information, calculate the holding period return of the portfolio:
+
+Holding Period Return={(Ending Value–Beginning Value)+Dividends Received}/Beginning Value
+
+Below is the use holding period return formula.
+
+Example #2
+
+Venus investment is trying to undertake a portfolio analysis of one of its funds, namely growth 500, using certain performance measures. The fund has an information ratio of 0.2 and an operational risk of 9%. The funds are benchmarked against the S&P 500 and have a Sharpe ratio of 0.4 with a standard deviation of 12%. Venus investment has decided to create a new portfolio by combining the growth 500 and the benchmark S&P 500. The criteria are to ensure a Sharpe ratio of 0.35 or more as part of the analysis. Venus has decided to undertake the portfolio analysis of the newly created portfolio using the following risk measure:
+
+Sharpe Ratio
+
+Optimal Active Risk of the New Portfolio = (Information Ratio/Sharpe Ratio)*Standard Deviation of Benchmark S&P 500
+
+Accordingly Sharpe Ratio of the New Portfolio = (Information Ratio ^2 + Sharpe Ratio ^2)
+
+Thus the Sharpe ratio is less than 0.35, and Venus can not invest in the said fund.
+
+Example #3
+
+Raven investments are trying to analyze the portfolio performance of two of its fund managers, Mr. A and Mr. B.
+
+Raven investment is undertaking the portfolio analysis using the information ratio of the two fund managersFund ManagersA fund manager refers to an investment professional responsible for fund investment strategy formulation and implementation. They collect and invest the money from various investors and create a good variety of managed funds catering to the diverse preferences exhibited by the investors. read more with a higher information ratio acting as a measure of superior performance.
+
+The following details enumerated below are used to measure the information ratio for portfolio analysis purposes:
+
+With a higher information ratio, fund manager B has delivered superior performance.
+
+Steps to Portfolio Analysis
+
+#1 – Understanding Investor Expectation and Market Characteristics
+
+The first step before portfolio analysis is to sync the investor expectation and the market in which such Assets will be invested. Proper sync of the expectations of the investor vis-à-vis the risk and return and the market factors helps a long way in meeting the portfolio objective. With a higher information ratio, fund manager B has delivered superior performance.
+
+#2 – Defining an Asset Allocation and Deployment Strategy
+
+This is a scientific process with subjective biases. It is imperative to define what type of assets the portfolio will invest, what tools will be used in analyzing the portfolio, which type of benchmark the portfolio will be compared with, the frequency of such performance measurement, and so on.
+
+#3 – Evaluating Performance and Making Changes if Required
+
+After a stated period as defined in the previous step, portfolio performance will be analyzed and evaluated to determine whether the portfolio attained stated objectives and the remedial actions, if any, required. Also, any changes in the investor objectives are incorporated to ensure portfolio analysis is up to date and keeps the investor expectation in check.
+
+You are free to use this image on your website, templates, etc., Please provide us with an attribution linkHow to Provide Attribution?Article Link to be HyperlinkedFor eg:Source: Portfolio Analysis (wallstreetmojo.com)
+
+Advantages
+
+It helps investors to assess the performance periodically and make changes to their Investment strategies if such analysis warrants. This helps in comparing the portfolio against a benchmark for return perspective and understanding the risk undertaken to earn such return, enabling investors to derive the risk-adjusted return. It helps realign the investment strategies with the changing investment objective of the investor. It helps in separating underperformance and outperformance, and accordingly, investments can be allocated.
+
+Conclusion
+
+Portfolio analysis is an indispensable part of investment management and should be undertaken periodically to identify and improvise any deviation observed against the investment objective. Another important objective it intends to achieve is to identify the real risk undertaken to achieve the desired return and whether the risk is commensurate with the return achieved by the investor. In short, it is a complex task and requires professional expertise and guidance to make it impactful.
+
+What is Investment Decision?
+
+Investment decision refers to financial resource allocation. Investors opt for the most suitable assets or investment opportunities based on risk profiles, investment objectives, and return expectations.
+
+Firms have limited financial resources; therefore, the top-level management undertakes capital budgeting and fund allocation into long-term assets. Managers overseeing business operations opt for short-term investments to ensure liquidity and working capital. Investment decisions are also influenced by the frequency of returns, associated risks, maturity periods, tax benefits, volatility, and inflation rates.
+
+Key Takeaways
+
+An investment decision is a well-planned action that allocates financial resources to obtain the highest possible return. The decision is made based on investment objectives, risk appetites, and the nature of the investor, i.e., whether they are an individual or a firm. Investments are primarily classified into short-term and long-term. Further, they are categorized into a strategic investment, capital expenditure, inventory, modernization, expansion, replacement, or new venture investments. The investment process involves the following steps: formulating investment objectives, ascertaining the risk profile, allocating assets, and monitoring performance.
+
+Investment Decision Explained
+
+Investment decisions are made to reap maximum returns by allocating the right financial resource to the right opportunity. These decisions are taken considering two important financial management parameters—risks and returns.
+
+You are free to use this image on your website, templates, etc., Please provide us with an attribution linkHow to Provide Attribution?Article Link to be HyperlinkedFor eg:Source: Investment Decision (wallstreetmojo.com)
+
+Investors and managers dedicate a lot of time to investment planning—these decisions involve massive funds and can be irreversible—impact on the investors and business is long-term.
+
+Also, individuals and corporate investors have to decide between various options—assets, securities, bondsBondsBonds refer to the debt instruments issued by governments or corporations to acquire investors’ funds for a certain period.read more, debentures, gold, real estate, etc. For businesses, investments could be in the form of new ventures, projects, mergersMergersMerger refers to a strategic process whereby two or more companies mutually form a new single legal venture. For example, in 2015, ketchup maker H.J. Heinz Co and Kraft Foods Group Inc merged their business to become Kraft Heinz Company, a leading global food and beverage firm.read more, or acquisitionsAcquisitionsAcquisition refers to the strategic move of one company buying another company by acquiring major stakes of the firm. Usually, companies acquire an existing business to share its customer base, operations and market presence. It is one of the popular ways of business expansion.read more as well.
+
+Investment decisions are further classified into short-term and long-term. For example, the final decision may involve a capital expenditureCapital ExpenditureCapex or Capital Expenditure is the expense of the company's total purchases of assets during a given period determined by adding the net increase in factory, property, equipment, and depreciation expense during a fiscal year.read more on assets that pay off in the long run or an investment in inventory that converts into sales within a short period. A company might attempt expansion by taking up new projects; a business might increase the capacity of an existing facility. Capital investment is required for replacing an obsolete asset as well. In business, decision-making is everywhere.
+
+Process
+
+Investing in an asset, security, or project requires a lot of patience; ideally, the decision-making process should be analytical. Following is a five-step process decision-making process that guides investors:
+
+Analyze Financial Position: For financial management, one has to understand the company or individual’s current financial condition.
+
+Define Investment Objective: Then, investors must set up an investment objective—whether to invest short-term or long-term. They should also be aware of their risk appetite (level of risk they desire to take).
+
+Asset Allocation: Based on the objective, investors must allocate assets into stocks, debentures, bonds, real estateReal EstateAt its most basic principle, Real Estate can be defined as properties that comprise land and its tangible attachments. The land includes the actual surface of the earth and any permanent natural objects such as water, dirt, or rock and any minerals or particulars under the surface. read more, options, and commoditiesCommoditiesA commodity refers to a good convertible into another product or service of more value through trade and commerce activities. It serves as an input or raw material for the manufacturing and production units.read more.
+
+Select Investment Products: After narrowing down on a particular asset class, investors must further select a particular asset or security. Alternatively, this could be a basket of assets that fit the requirements.
+
+Monitor and Due Diligence: Portfolio managersPortfolio ManagersA portfolio manager is a financial market expert who strategically designs investment portfolios.read more keep an eye on the performance of each investment and monitor the returns. In case of poor performance, they must take prompt action.
+
+Factors Affecting Investment Decision
+
+An investment is a planned decision, and some of the factors that are responsible for these decisions are as follows:
+
+Investment Objective: The purpose behind an investment determines the short-term or long-term fund allocation. It is the starting point of the decision-making process.
+
+Return on Investment: Managers prioritize positive returns—they try to employ limited funds in a profitable asset or security.
+
+Return Frequency: The number of periodic returns an investment offer is crucial. Financial management is based on financial needs; investors choose between investments that yield monthly, quarterly, semi-annual, or annual returns.
+
+Risk Involved: An investment may possess high, medium, or low risk, and the risk appetite of every investor and company is different. Therefore, every investment requires a risk analysis.
+
+Maturity Period or Investment Tenure: InvestmentsInvestmentsInvestments are typically assets bought at present with the expectation of higher returns in the future. Its consumption is foregone now for benefits that investors can reap from it later.read more pay off when funds are blocked for a certain period. Thus, investor decisions are influenced by the maturity period and payback periodPayback PeriodThe payback period refers to the time that a project or investment takes to compensate for its total initial cost. In other words, it is the duration an investment or project requires to attain the break-even point.read more.
+
+Tax Benefit: Tax liabilityTax LiabilityTax liability refers to the outstanding amount to be paid by an individual or company to the government. read more associated with a particular asset or security is another crucial deciding factor. Investors tend to avoid investment opportunities that are taxed heavily.
+
+Safety: An asset or security offered by a company that adheres to regulatory frameworks and has a transparent financial disclosure is considered safe. Government-backed assets are considered the most secure.
+
+Volatility: Market fluctuations significantly affect investment returns and, therefore, cannot be overlooked.
+
+Liquidity: Investors are often worried about their emergency funds—the provision to withdraw money before maturity. Hence, investors look at the degree of liquidity offered by a particular asset or security; they specifically consider withdrawal restrictions and penalties.
+
+Inflation Rate: In financial management, investors look for investment opportunities where returns surpass the nation’s inflation rate.
+
+Examples
+
+Example #1
+
+Let us assume that Quinn possesses $12000 in her savings account. She decides to invest, but her priority is low risk and high liquidityLiquidityLiquidity is the ease of converting assets or securities into cash.read more. Her portfolio manager suggests XYZ mutual funds. This mutual fund allocates 75% of her money into debentures & bonds and 25% into stocks. Also, she can withdraw funds at any time.
+
+Example #2
+
+Caisse de Depot et Placement du Quebec (CDPQ) and DP World plan co-invested $5 billion into three prominent UAE assets: • Jebel Ali Port (JAP) established a trade corridor between the east and the west,• Jebel Ali Free Zone (JAFZ) is the world’s largest free zone located in the middle east,• National Industries Park (NIP) spread its manufacturing and processing companies across 21sq. Km of area.
+
+As a consequence of the investment, CDPQ gained an expansive exposure—a logistics chain comprising 8700 global companies—3.5 billion-plus consumers worldwide. In 2021, these assets yielded an overall revenue of $1.9 billion.
+
+Frequently Asked Questions (FAQs)
+
+What is the investment process? In financial management a five-step investment process is followed:1. Analyze the current financial condition.2. Set up an investment objective and ascertain the risk profile.3. Plan and devise asset allocation.4. Select the appropriate investment opportunity.5. Monitor investment and perform due diligence. What are the factors affecting investment decisions? Given below are the various factors that influence decisions:1. Investment objective2. Return on investment3. Return frequency4. Involved risks5. Maturity period6. Tax benefit7. Volatility8. Liquidity9. Inflation rate What are the types of investment decisions? Investment decisions are classified into:1. Strategic investment2. Capital expenditure3. Inventory investment4. Modernization investment5. Replacement investment6. Expansion investment7. New venture investment
+
+Why is an investment decision important? In organizations, investment decisions are crucial for growth and profitability—impact cash flows—have a long-term impact as many of these decisions are irreversible. Even with limited funds, individuals can obtain impressive returns if the investment is well-planned. Managers must calculate the risks associated beforehand; this way, they can avoid losses.
+
+Asset Allocation Meaning
+
+Asset allocation refers to dividing the total wealth of investors into various proportions and using them for making investments in different asset classes. This lets investors have diverse portfolios to maintain a balance between losses and profits. In addition, it helps minimize investment risks by covering a loss from one investment with the gains acquired from another.
+
+Asset allocation applies to all asset classesAsset ClassesAssets are classified into various classes based on their type, purpose, or the basis of return or markets. Fixed assets, equity (equity investments, equity-linked savings schemes), real estate, commodities (gold, silver, bronze), cash and cash equivalents, derivatives (equity, bonds, debt), and alternative investments such as hedge funds and bitcoins are examples.read more, but the major ones include stocks, bonds, and cash. The distribution of wealth or the proportions allocated to different classes of assets depends on individual investors’ financial stability and ability to bear risks.
+
+Key Takeaways
+
+Asset allocation is the distribution of wealth in various asset classes like debt, equity, mutual funds, real estate, etc., for achieving long-term financial goals. The allocation of resources for assets highly depends on the individuals’ risk appetite and the returns expected. It is the first step of portfolio management, which helps financial advisors determine the type and tenure of assets to invest in. Some widely used asset allocation models include 100% bond allocation, 100% stock allocation, income allocation, balanced allocation, growth allocation, etc.
+
+How Does Asset Allocation Work?
+
+Asset allocation, as the name suggests, deals with allocating different assets, helping investors divide their wealth and build diverse portfolios. Financial advisors recommend investors have diverse portfolios, given the market volatility. In addition, the strategy allows them to minimize risks. For example, if they incur a loss from the investment made in equity, the profits reaped from other investments would make it easier for them to deal with the loss. In short, even if losses occur, it reduces the effect on the traders.
+
+The extent to which the wealth could be used for investment is an investor’s decision. Financial stability and an investor’s risk appetite are the two factors that drive the asset allocation decision.
+
+One of the major decisions an investor needs to make is the distribution of wealth between stocks and bonds. It has been found that the stock or bond allocations show results over long periods. Vanguard studied data from 1926 to 2018 and observed the risks and returns associated with a 100% bond and 100% stock portfolios.
+
+The investment management company figured out how the average annual return for the former was 5.3%, with 32.6% being the best return in 1982. Plus, it also mentioned the fall of 8.1% in 1969. Hence, it concluded how the bond portfolio took a long span to diminish in value. It observed a similar scenario for the 100% stock portfolio as well.
+
+Models
+
+Besides the above-mentioned basic asset allocation models, i.e., 100% stock portfolio and 100% bond portfolio, investors also have income, balanced, and growth portfolios to allocate their resources in. While the income model comprises allocating 70-100% of the wealth in bonds, a balanced portfolio involves 40-60% investment in stocks, with the growth portfolio requiring 70-100% wealth engagement in stocks.
+
+No asset allocation is good or bad, right or wrong. Instead, investors’ financial condition, ability to deal with risks, expected returnExpected ReturnThe Expected Return formula is determined by applying all the Investments portfolio weights with their respective returns and doing the total of results. Expected return = (p1 * r1) + (p2 * r2) + ………… + (pn * rn), where, pi = Probability of each return and ri = Rate of return with probability. read more, and financial goals determine which model would suit them. For example, investors looking for long-term benefits must consider investing in and building their growth portfolio above other options.
+
+Strategies
+
+When allocating assets, there are multiple strategies that financial advisors and investors adopt to ensure the investments made are fruitful. Some of the major asset allocation strategies include:
+
+#1 – Age-Based
+
+As the name implies, the age-based strategy considers the investors’ age. The financial advisors find out the portion of funds to invest in equity mutual funds by subtracting the investor’s age from 100. The rest of the wealth could be invested in other asset classes. For example, if one is 40-year-old, 80% of the fund is recommended for equity funds, while the rest is for different asset classes.
+
+#2 – Lifecycle Funds
+
+The next on the list is lifecycle funds. In this case, the advisors consider the investor’s age, their investment objectives, and risk appetiteRisk Appetite Of A ClientRisk appetite refers to the amount, rate, or percentage of risk that an individual or organization (as determined by the Board of Directors or management) is willing to accept in exchange for its plan, objectives, and innovation.read more, like any other asset class investment. But especially, the investor’s age helps them determine the amount to invest in assets that would enable them to get the maximum returns on investment.
+
+You are free to use this image on your website, templates, etc., Please provide us with an attribution linkHow to Provide Attribution?Article Link to be HyperlinkedFor eg:Source: Asset Allocation (wallstreetmojo.com)
+
+#3 – Strategic
+
+Thirdly, financial advisors have a strategic asset allocation strategy to use. It is also known as constant-weight allocation, which revolves around the buy-and-hold policy. As per the financial market rule, the original asset allocation mix of 5% should not change. Thus, if one stock loses value, the investors are encouraged to buy more of them not to disturb the proportionate mix. Plus, if the value of those stocks increases in the future, selling them at a higher price would always reap profits.
+
+#4 – Tactical
+
+The fourth on the list is the tactical asset allocation. This strategy encourages short-term investment decisions. Users adopt and implement it where the strategic allocation of assets seems to fail. Hence, these are not into boosting long-term investments like the constant-weight allocation strategy.
+
+#5 – Dynamic
+
+Last but not least is the dynamic allocation of assets, which is one of the most widely used strategies nowadays. It allows investors to compare their highs and lows and accordingly decide where to increase the investment proportion and where to reduce it. As it makes various available options to switch to, investors can change their options to maximize profits and reduce losses.
+
+Factors
+
+While allocating funds, multiple factors need consideration. Among all, the most important is the time horizon. Time plays a key role. Besides the age of the investors, there are other number factors that one must take into account. These include the number of months, years, or decades one desires to invest in an asset to achieve their financial goal. Though investors putting in money for the longer term are ready to take risks and invest in a volatile market, those with short-term goals avoid making riskier investments.
+
+You are free to use this image on your website, templates, etc., Please provide us with an attribution linkHow to Provide Attribution?Article Link to be HyperlinkedFor eg:Source: Asset Allocation (wallstreetmojo.com)
+
+As stated above, the investor’s risk tolerance ability is yet another factor that determines how the resources are allocated. Moreover, risks and rewards seem entangled when investors put in their wealth to allocate assets. While one of their investment might incur a loss, another has the chance of reaping huge profits. Hence, the returns remain balanced.
+
+The last one that guides asset allocation is the financial or investment goals one aims to achieve. Every investor has a number in mind when it comes to expected returns. Sharing the expectations helps financial advisors allocate assets accordingly.
+
+Example
+
+Let us consider the following detailed asset allocation example to understand the concept well:
+
+Stella, a 45-year-old corporate employee, plans to retire at 60 without any entitlement to pensions. She has a monthly income of $50,000 and multiple plans, including securing a significant monthly income for life after retirement. Given her plans, she connects with a financial advisor and decides to allocate assets.
+
+Currently, she acquires wealth worth $2 million. The advisor recommends that she should opt for some risky assets, which would be fruitful after 15 years. The consultant ensures that the investor will get a sufficient amount to lead her retirement life. Thus, the concerned person recommends a few short-term equity investmentEquity InvestmentEquity investment is the amount pooled in by the investors in the shares of the companies listed on the stock exchange for trading. The shareholders make gain from such holdings in the form of returns or increase in stock value.read more options that would mature in the next five years to fulfill her travel plans.
+
+Thus, she selects a few short-term to achieve her travel plans and adventure trips and some for long-term financial goals to secure her post-retirement phase.
+
+Importance
+
+Allocation of assets is the first step of portfolio managementPortfolio ManagementPortfolio management involves overseeing a set of investments, including securities, bonds, exchange-traded funds, mutual funds, cryptocurrencies, etc., on a personal or professional levelread more. However, until investors decide on the asset classes to invest in, the portfolio managerPortfolio ManagerA portfolio manager is a financial market expert who strategically designs investment portfolios.read more will not be able to suggest where to invest and for how long.
+
+One of the best things about allocating the assets is that the investors can choose the asset classes to invest in as per their financial condition, expected returns, and ability to bear risks. As a result, they don’t feel trapped in the deal they invest in as they choose deals per their financial capabilities.
+
+Next on the list is the interrelationship between asset allocation and diversification. The diverse portfolio keeps the investors balanced. When an investor distributes its wealth for investing in different asset classes, the gain from one deal helps cover the loss incurred from another. Thus, the distribution helps keep a balance between profits and losses for investors. As a result, they can play safe with asset allocation.
+
+Frequently Asked Questions (FAQs)
+
+What is asset allocation in investing? Asset allocation in investing deals with the distribution of the total wealth of the investors into investing in different asset classes. These asset classes include stocks, bonds, real estate currencies, derivatives, fixed income, currencies, cryptocurrencies, cash, etc. What is constant-weight allocation? It is another name for strategic allocation of assets that runs on the buy-and-hold-policy. In this case, if one stock loses value, the investors are encouraged to buy more of them so that the original 5% mix does not get disturbed. Moreover, if the value of those stock increase in the future, selling them would be fruitful. What are asset allocation funds? It is defined as the funds allocated to fixed income security and equities based on the financial goal of investors. In the case of mutual funds, there is a target amount to be invested in the fixed income assets and equities.
